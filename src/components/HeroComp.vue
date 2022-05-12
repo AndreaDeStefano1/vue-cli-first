@@ -16,7 +16,7 @@ export default {
 <style>
 .jumbotron{
   background-color: aqua;
-  width: 100vw;
+  width: 100%;
   height: 500px;
 }
 </style>
